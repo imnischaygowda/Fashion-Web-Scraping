@@ -37,7 +37,7 @@ Scraped product data consists of Name, Brand, Price, ImageURL, and ProductURL.
 
     Project folders and files
 
-    ![Folder structure ](Images_for_blog\Screenshot (114).png )
+    ![Folder structure ](https://github.com/nischayggowda105/Fashion-Web-Scraping/blob/main/Images_for_blog/folder-structure.png )
 
     **'csvfiles'** folder contains CSV files containing webiste to be scraped. Spiders will be reading from those CSV files to get **'starting URLs'** to initiate scraping.
 
