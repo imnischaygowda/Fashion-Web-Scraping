@@ -3,7 +3,7 @@ Product data scraping from Ecom website.
 
 ### **Introduction** 
 
-Coming off the ages in AI filed we all know how essential having data. For someone working on say a, product data for anygiven product sold online, but you dont have it readily available.What to do, with no data.😲
+Coming off the ages in AI filed we all know how essential having data. For someone working on say a, product data for any given product sold online, but you dont have it readily available.What to do, with no data.😲
 
 What if I say there is a work around, where you can actually scrape the data from a Ecom website with few simple steps using Python code.😁
 
