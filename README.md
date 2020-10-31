@@ -37,7 +37,7 @@ Scraped product data consists of Name, Brand, Price, ImageURL, and ProductURL.
 
     Project folders and files
 
-    ![Folder structure ](https://github.com/nischayggowda105/Fashion-Web-Scraping/blob/main/Images_for_blog/folder-structure.png )
+    ![Folder structure ](http://drive.google.com/uc?export=view&id=18f-dpl6vksUz7hb90n0oVqKfCxDTYjiA)
 
     **'csvfiles'** folder contains CSV files containing webiste to be scraped. Spiders will be reading from those CSV files to get **'starting URLs'** to initiate scraping.
 
@@ -45,7 +45,7 @@ Scraped product data consists of Name, Brand, Price, ImageURL, and ProductURL.
 
 4. Populate the CSV files with start URL's for each website.
 
-    ![Folder structure ](Images_for_blog\Screenshot (114).png )
+    ![Folder structure ](http://drive.google.com/uc?export=view&id=1aSxy1S-L2EvEwYH3g2N2-N9kxWBOgs-A)
 
     The URL of first page of website we scrape looks like this. 
 
@@ -203,6 +203,8 @@ Scraped product data consists of Name, Brand, Price, ImageURL, and ProductURL.
                 pass
 
     HTML tags are taken from page source, right click on webpage and select inspect, search **product-list-item**, to get the necessary tags for objects.
+    
+    ![HTML Tags](http://drive.google.com/uc?export=view&id=1mGIFV6H4aslc1gGbb4wD5yt0RT47FHN5)
 
 7. Generate JSON files from spider.
 
@@ -225,7 +227,7 @@ Scraped product data consists of Name, Brand, Price, ImageURL, and ProductURL.
 
     Final Product csv file is saved in **final_products_csv** folder.
 
-    ![CSV file](Images_for_blog/Screenshot (117).png) 
+    ![CSV file](http://drive.google.com/uc?export=view&id=1ia6vop6_o9CCE26jEm_gQ0TIEQ9VTKyU) 
 
 
 Thats it. You can find my github link to all files [here](https://github.com/nischayggowda105/Fashion-We-Scraping).
