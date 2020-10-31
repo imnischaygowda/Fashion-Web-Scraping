@@ -232,7 +232,7 @@ Scraped product data consists of Name, Brand, Price, ImageURL, and ProductURL.
 
 Thats it. You can find my github link to all files [here](https://github.com/nischayggowda105/Fashion-We-Scraping).
 
-If you feel this content was useful, go ahead clap for free and follow if you like. 😊
+If you feel this content was useful, go ahead clap and follow if you like. 😊
 
 
 
